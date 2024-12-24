@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alina Vilisova Chadwick"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alina Vilisova Chadwick"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://alinachadwick.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "alinachadwick/alinachadwick.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,21 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Alina Vilisova Chadwick"
+  pronouns         : # "she/her"  
+  bio              : "CS Ph.D. student @ UR"
+  location         : "Rochester, NY"
+  employer         : "University of Rochester"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alina.chadwick@gmail.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=kIXPWDEAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0009-0006-3016-7663"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,21 +44,21 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "alinachadwick"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : "user/show/184693304-alina-chadwick"
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "alinachadwick"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "alina-chadwick"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
