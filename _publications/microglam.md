@@ -6,6 +6,12 @@ permalink: /publication/makeup-SA
 excerpt: 'We present a cosmetic-specific skin image dataset and demonstrate the viability of the dataset with an image-to-image translation-based pipeline for cosmetic rendering and compared our data-driven approach to an existing cosmetic rendering method.'
 date: 2023-11-28
 venue: 'SIGGRAPH Asia'
+authors:
+  - "Toby Chong"
+  - "Alina Chadwick"
+  - "I-Chao Shen"
+  - "Haoran Xie"
+  - "Takeo Igarashi"
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://jdily.github.io/resource/microglam/MakeupSA2023_tech_comm_small.pdf'
 citation: 'Chong, T., Chadwick, A., Shen, I., Xie, H., Igarashi, T., (2023). &quot; MicroGlam: Microscopic Skin Image Dataset with Cosmetics 2.&quot; <i>SIGGRAPH Asia</i>. '

@@ -1,0 +1,6 @@
+# Local preview override — merged on top of _config.yml only when running
+# `jekyll serve --config _config.yml,_config_dev.yml`.
+# Makes all asset links (CSS, fonts, avatar image) point at the local
+# server instead of the live production site, so local previews actually
+# reflect uncommitted/unpushed changes.
+url: "http://127.0.0.1:4000"

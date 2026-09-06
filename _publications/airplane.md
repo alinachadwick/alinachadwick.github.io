@@ -6,6 +6,8 @@ permalink: /publication/welfare-maximization-in-the-airplane-problem
 excerpt: 'The goal of the airplane problem is to sit passengers in seats in a way that maximizes the sum of their total welfare, that is, the total happiness of the passengers in the plane.'
 date: 2024-05-29
 venue: 'Dartmouth Digital Commons'
+authors:
+  - "Alina Chadwick"
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1039&context=cs_senior_theses'
 citation: 'Chadwick, A. (2024). &quot;Welfare Maximization in the Airplane Problem.&quot; <i>Dartmouth Digital Commons</i>.'
