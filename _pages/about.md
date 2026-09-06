@@ -8,7 +8,7 @@ redirect_from:
 
 <h3 style="margin-top: 0; color: #7a8288;">Brief Bio</h3>
 
-I am a Computer Science Ph.D. student at the University of Rochester and am very fortunate to be advised by [Prof. Anson Kahng](https://ansonkahng.com/). This academic year, I am also visiting [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) at MIT. Previously, I was a computer science and economics double major at Dartmouth College ('24).
+I am a Computer Science Ph.D. student at the University of Rochester and am very fortunate to be advised by [Anson Kahng](https://ansonkahng.com/). This academic year, I am also visiting [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) at MIT. Previously, I was a computer science and economics double major at Dartmouth College ('24), where I worked with [Hsien-Chih Chang](https://hcsoso.github.io/).
 
 My research lies at the intersection of computer science and economics; my interests include applying computational social choice principles to automated decision-making and using voting theory to improve LLM alignment and rationality. Outside of research, I am interested in classical music, art, card games, coffee, and have also spent time in the social activism space (if you're interested in specifics, [email me](mailto:alina.chadwick@gmail.com)).
 
