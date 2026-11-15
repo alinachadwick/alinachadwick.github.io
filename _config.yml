@@ -21,7 +21,7 @@ repository               : "alinachadwick/alinachadwick.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-photo.jpg"
+  avatar           : "headshot-square.jpeg"
   name             : "Alina Vilisova Chadwick"
   pronouns         : # "she/her"  
   bio              : "CS Ph.D. student @ The University of Rochester"
